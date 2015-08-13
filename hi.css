@@ -67,7 +67,7 @@ li {
     padding-left: 30px;
     display: inline;
     float: left;
-    font-family: moon flower;
+    font-family: "Moon Flower";
     font-size: 30px;
     
 }
@@ -113,7 +113,7 @@ h4{ font-size: 100px;
 #drop
 {
     
-    font-family: "BebasNeue"; 
+    font-family: "Bebas Kai"; 
     display: block;
     color: #be042c;
     font-size: 20px;
@@ -122,7 +122,7 @@ h4{ font-size: 100px;
 
 #drop1
 {
-    font-family: "BebasNeue"; 
+    font-family: "Bebas Kai"; 
     display: block;
     color: #be042c;
     font-size: 20px;
@@ -140,7 +140,7 @@ menu
 
 #CTFU{
     font-size: 50px; 
-    font-family: "BebasNeue";
+    font-family: "Bebas Kai";
     color: #be042c;
     background-color: azure;
 }
@@ -149,7 +149,7 @@ menu
     
 #HII {
     font-size: 50px; 
-    font-family: "BebasNeue";
+    font-family: "Bebas Kai";
     color: #be042c;
     background-color: azure;
 }
@@ -158,25 +158,25 @@ menu
    
 #HIIII{
     font-size: 50px; 
-    font-family: "BebasNeue";
+    font-family: "Bebas Kai";
     color: #be042c;
     background-color: azure;
 }
 
 #Bee{
     font-size: 50px; 
-    font-family: "BebasNeue";
+    font-family: "Bebas Kai";
     color: #be042c;
     background-color: azure;
 }
 #fly{font-size: 50px; 
-    font-family: "BebasNeue";
+    font-family: "Bebas Kai";
     color: #be042c;
     background-color: azure;}
 
 #me {
     font-size: 20px; 
-    font-family: "BebasNeue";
+    font-family: "Bebas Kai";
     color: black;
     background-color: azure;
 }
@@ -185,7 +185,7 @@ menu
 p{
     
     font-size: 40px; 
-    font-family: "BebasNeue";
+    font-family: "Bebas Kai";
     color: white;
     
     
@@ -199,13 +199,13 @@ p{
 }
 
 #caw{font-size: 40px; 
-    font-family: "BebasNeue";
+    font-family: "Bebas Kai";
     color: red;
 background-color: cadetblue;}
 
 
 #rock{font-size: 40px; 
-    font-family: "BebasNeue";
+    font-family: "Bebas Kai";
     color: red;
     background-color:  cadetblue;}
 
